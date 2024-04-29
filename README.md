@@ -20,10 +20,10 @@ You also need to create an "application" on your Mastodon server  (`preferences`
 
 Mastodon API creds are supplied as env vars. They're self explanatory:
 
-MASTODON_CLIENT_KEY
-MASTODON_CLIENT_SECRET
-MASTODON_ACCESS_TOKEN
-MASTODON_API_BASE_URL
+MASTODON_CLIENT_KEY  
+MASTODON_CLIENT_SECRET  
+MASTODON_ACCESS_TOKEN  
+MASTODON_API_BASE_URL  
 
 ## Asterisk Config
 
